@@ -13,7 +13,7 @@ The following research works were undertaken during MTech (Research) studies at 
 
 * Ramaswamy, A., Bhatnagar, S., & **Saxena, N.** (2023). <a href="https://arxiv.org/abs/2305.12125" target="_blank" rel="noopener"> A Framework for Provably Stable and Consistent Training of Deep Feedforward Networks </a>. arXiv preprint arXiv:2305.12125.
 
-The following research works were undertaken at part of Bachelor studies at JIIT, Noida.
+The following research works were undertaken as part of Bachelor studies at JIIT, Noida.
 
 * **Saxena, N.**, Chahal, E. S., Sinha, A., & Chand, S. (2021, December). <a href="https://ieeexplore.ieee.org/abstract/document/9691645" target="_blank" rel="noopener">Coronavirus Infection Segmentation & Detection Using UNET Deep Learning Architecture </a>. In 2021 IEEE 18th India Council International Conference (INDICON) (pp. 1-6). IEEE.
 
